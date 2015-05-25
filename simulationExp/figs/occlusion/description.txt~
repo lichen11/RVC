@@ -1,0 +1,5 @@
+p_occ = 0.7
+std_error < 0.0007
+
+p_rev = 0.6
+std_err < 0.0015
